@@ -40,7 +40,7 @@ On the days leading to the hackthon, you will have data view access only. This w
 
 ## How to submit demos?
 [comment]: <> (TO-DO: Add link to form for demo submission)
-Demo submission is possible until end of day Sunday, Nov 1st. Please, use this form to submit. We will gather again on Monday, Nov 2nd to watch demos (yay!) and award the prizes to the top 3 winners of each category. 
+Demo submission is possible until end of day Sunday, Nov 1st. Please, use [this form to submit](https://forms.gle/oGFLyDV9Lcw8NsTF6). We will gather again on Monday, Nov 2nd to watch demos (yay!) and award the prizes to the top 3 winners of each category. 
 
 We are expecting a video format for each demo so that judges can experience you provide a lightning talk about your solution, as you would do in real life. Feel free to use slides, animations, live coding, and other means to show off what you built during the hackathon. Please stay within the 3 minutes limit for your demo.
 
