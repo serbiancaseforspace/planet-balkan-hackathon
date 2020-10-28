@@ -20,20 +20,22 @@ To create an issue, simply click on  `New Issue`,  add a Title and a description
 ## Form teams
 If you have posted your idea in the [issue tracker](https://github.com/serbiancaseforspace/planet-balkan-hackathon/issues), make sure you keep an eye open for comments and reactions. If you are looking for a team and like an idea, feel free to let others know by up-voting their posts (_rocket emoji anyone?_). Feel free to also use [Slack](https://serbiancaseforspacehq.slack.com/) to bring attention to your ideas and recruit team members. You choose!
 
-Once you have a team, **make sure you register**. Team registration will open on Wednesday Oct 28th and will close Friday, Oct 30th at 12:00 CET and it will be in the shape of a form you will have to fill in with:
+Once you have a team, **make sure you register using**. Team registration will open on Wednesday Oct 28th and will close Friday, Oct 30th at 12:00 CET. Please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLScpSvvgEXvefaFdR5kAmNVuLZP8MMREWflldm63ULf4-QFGqQ/viewform) with the detailes below to get your teams registered:
 - Team name
 - Idea title/name/link to issue
-- Team admin and members
-- Members mailing address (Optional)
+- Challenge
+- Team admin, admin email
+- Team members 
+- Members mailing addresses (Optional)
 
-We know, yet another form: think of it as the registration table where you'd check in and get a name badge at an in real life hackathon. Mailing address is optional, but it you include it, you'll receive an official hackathon bag with sweet swag mailed to you, just as in real life! 
+We know, yet another form: think of it as the registration table where you'd check in and get a name badge at an in real life hackathon. Mailing address is optional, but if you include it, you'll receive an official hackathon bag with sweet swag mailed to you, just as in real life! 
 
 <br>
 
 ## Get Planet data
 By now, you should have received an invitation to create your Planet account. If you haven't, please check your spam folder. If you already had a Planet account that uses the same email you signed up to the hackthon with, you need to take no action.
 
-On the days leading to the hackthon, you will have data view access only. This will let you Explore our [platform](https://www.planet.com/explorer) and get familiar with the products. Do checkout Planet's [Developer Center](https://developers.planet.com/) for more info.
+On the days leading to the hackathon, you will have data view access only. This will let you Explore our [platform](https://www.planet.com/explorer) and get familiar with the products. Do checkout Planet's [Developer Center](https://developers.planet.com/) for more info.
 
 <br>
 
