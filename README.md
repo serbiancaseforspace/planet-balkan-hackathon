@@ -20,7 +20,7 @@ To create an issue, simply click on  `New Issue`,  add a Title and a description
 ## Form teams
 If you have posted your idea in the [issue tracker](https://github.com/serbiancaseforspace/planet-balkan-hackathon/issues), make sure you keep an eye open for comments and reactions. If you are looking for a team and like an idea, feel free to let others know by up-voting their posts (_rocket emoji anyone?_). Feel free to also use [Slack](https://serbiancaseforspacehq.slack.com/) to bring attention to your ideas and recruit team members. You choose!
 
-Once you have a team, **make sure you register using**. Team registration will open on Wednesday Oct 28th and will close Friday, Oct 30th at 12:00 CET. Please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLScpSvvgEXvefaFdR5kAmNVuLZP8MMREWflldm63ULf4-QFGqQ/viewform) with the detailes below to get your teams registered:
+Once you have a team, **make sure you register**. Team registration will open on Wednesday Oct 28th and will close Friday, Oct 30th at 12:00 CET. Please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLScpSvvgEXvefaFdR5kAmNVuLZP8MMREWflldm63ULf4-QFGqQ/viewform) with the detailes below to get your teams registered:
 - Team name
 - Idea title/name/link to issue
 - Challenge
