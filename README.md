@@ -60,4 +60,51 @@ Below you will find a list of resources you can use to get ancillary data for yo
 - [WorlPop](https://www.worldpop.org/)
 - [Earthdata](https://search.earthdata.nasa.gov/search)
 
+## Solutions
+Disconnect kebab	
+https://drive.google.com/file/d/1VTs2ovSzE2CqTJOKLiFYB8-zkXZoF6kW/view?usp=sharing
 
+InnovaOne	
+https://drive.google.com/file/d/181kbCyv-ohxfZ38GI3DNxIYiEDG4hXOP/view?usp=sharing
+
+iVAR	
+https://youtu.be/K6pYXe01pr4
+
+Over Under	
+https://vimeo.com/474456494
+
+Kontraprivreda	
+https://www.youtube.com/watch?v=PWmmNKNl4cc&feature=youtu.be
+
+Ecolution	
+https://we.tl/t-khtyNR97rY
+
+UWC Mostar	
+https://youtu.be/v09Io3hwvuc
+
+Uroševci	
+https://www.youtube.com/watch?v=-mqFFRNWhRU
+
+Band of Farmers	
+https://youtu.be/DI596LLsWqg
+
+Vairnguard	
+https://youtu.be/KJdoTVGFawg
+
+Team Raketa	
+https://mega.nz/file/Ir4wCZZa#tfs02bUKoJF1Y9betbTUWaNtBtkJGCZn0T4yOrcGVlk
+
+Hockey Stick	
+https://drive.google.com/file/d/18E-Xywae0JwVU9c7UbW8JXapyUNC0e7V/view?usp=sharing
+
+Hockey Stick	
+https://drive.google.com/file/d/18E-Xywae0JwVU9c7UbW8JXapyUNC0e7V/view?usp=sharing
+
+GitGud	
+https://www.youtube.com/watch?v=5619-mJZDCw
+
+Surlići	
+https://www.youtube.com/channel/UC1dDSeTzwfo6zgwIOw3Brhg/featured
+
+Solar is Simple
+https://www.youtube.com/watch?v=i0prO2W-OvM&feature=youtu.be
