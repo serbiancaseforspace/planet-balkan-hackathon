@@ -97,9 +97,6 @@ https://mega.nz/file/Ir4wCZZa#tfs02bUKoJF1Y9betbTUWaNtBtkJGCZn0T4yOrcGVlk
 Hockey Stick	
 https://drive.google.com/file/d/18E-Xywae0JwVU9c7UbW8JXapyUNC0e7V/view?usp=sharing
 
-Hockey Stick	
-https://drive.google.com/file/d/18E-Xywae0JwVU9c7UbW8JXapyUNC0e7V/view?usp=sharing
-
 GitGud	
 https://www.youtube.com/watch?v=5619-mJZDCw
 
